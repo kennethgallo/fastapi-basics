@@ -278,6 +278,8 @@ __pycache__/
 *.pyd
 *.pyo
 
+.idea/
+
 # Virtual environment
 .venv/
 env/
