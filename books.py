@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-
+# Basic project to learn fastapi
 app = FastAPI()
 
 BOOKS = [

@@ -288,6 +288,7 @@ venv/
 # Environment variables
 .env
 *.env
+fastapienv
 
 # Database files
 *.sqlite3
